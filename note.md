@@ -22,3 +22,5 @@ git merge {name}   -> từ nhánh đag ở kết hợp vs nhánh {name}
 git branch -d {name branch}   -> xóa nhánh nào đó
 git push     -> đẩy dự án từ đây lên github
 
+ git remote add origi "https://github.com/Hoang-Sy-Viet/github_vn.git"      -> để đặt link = origi
+ 
