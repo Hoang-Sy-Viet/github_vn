@@ -2,7 +2,7 @@
 
 repo
 branch (nhánh)
-
+conflict
 
 # commands
 
