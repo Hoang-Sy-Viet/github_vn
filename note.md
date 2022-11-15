@@ -3,6 +3,8 @@
 repo
 branch (nhánh)
 conflict
+local
+remote
 
 # commands
 
@@ -10,7 +12,7 @@ git init
 git status
 git add 
 git reset
-git commit
+git commit""
 git branch    ->kiểm tra xem đag ở nhánh nào
 git branch {name}   ->tạo nhánh mới
 git checkout -b {name branch}  
@@ -18,3 +20,5 @@ git checkout -b {name branch}
 git checkout     ->chuyển từ nhánh này qua nhánh khác
 git merge {name}   -> từ nhánh đag ở kết hợp vs nhánh {name}
 git branch -d {name branch}   -> xóa nhánh nào đó
+git push     -> đẩy dự án từ đây lên github
+
